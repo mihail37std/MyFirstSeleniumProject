@@ -10,8 +10,7 @@ public class WishListTest {
         addItemToWishListAndChangeQuantity ();
         addItemToWishListWithoutLogin ();
         removeItemFromWishList();
-
-
+        
     }
 
     public static void addItemToWishList(){
